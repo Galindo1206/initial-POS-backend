@@ -1,6 +1,6 @@
 {
   "deploy": {
-    "startCommand": "php artisan serve --host=0.0.0.0 --port=8080",
-    "preDeployCommand": "echo 'RUN MIGRATIONS' && php artisan migrate --force -vvv"
+    "preDeployCommand": "echo 'RUN SETUP' && php artisan migrate --force -vvv && php artisan db:seed --force -vvv",
+    "startCommand": "php artisan serve --host=0.0.0.0 --port=8080"
   }
 }
