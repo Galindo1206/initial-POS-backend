@@ -8,10 +8,11 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Product extends Model
 {
     protected $fillable = [
-        'name',
-        'price',
-        'send_to_kitchen',
-    ];
+    'code',              // 👈 AGREGAR ESTO
+    'name',
+    'price',
+    'send_to_kitchen',
+];
 
     protected $casts = [
         'price' => 'decimal:2',

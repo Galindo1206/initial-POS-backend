@@ -1,0 +1,71 @@
+code,name,price,send_to_kitchen
+C1,Arroz con Mariscos + Ceviche de Pescado,20,1
+C2,Arroz con Mariscos + Leche de tigre,20,1
+C3,Arroz con Mariscos + Chilcano,20,1
+C4,Chaufa de Mariscos + Ceviche de Pescado,20,1
+C5,Chaufa de Mariscos + Leche de tigre,20,1
+C6,Chaufa de Mariscos + Chilcano,20,1
+C7,Chaufa de Pescado + Ceviche de Pescado,20,1
+C8,Chaufa de Pescado + Leche de tigre,20,1
+C9,Chaufa de Pescado + Chilcano,20,1
+C10,Picante de Mariscos + Ceviche de Pescado,20,1
+C11,Picante de Mariscos + Leche de tigre,20,1
+C12,Picante de Mariscos + Chilcano,20,1
+CV1,Ceviche Mixto,25,1
+CV2,Ceviche de Pescado,20,1
+CV3,Ceviche Carretillero,20,1
+CV4,Ceviche de Pota,20,1
+CH1,Jalea Mixta,25,1
+CH2,Chicharron de Pescado + Ceviche,25,1
+CH3,Chicharron de Pescado + Leche de tigre,25,1
+CH4,Chicharron de Pescado + Chilcano,25,1
+CH5,Chicharron de Pota + Ceviche,25,1
+CH6,Chicharron de Pota + Leche de tigre,25,1
+CH7,Chicharron de Pota + Chilcano,25,1
+D1,Arroz con Mariscos + Chicharron de Pota,20,1
+D2,Arroz con Mariscos + Chicharron de Pescado,20,1
+D3,Chaufa de Mariscos + Chicharron de Pescado,20,1
+D4,Chaufa de Mariscos + Chicharron de Pota,20,1
+D5,Chaufa de Pescado + Chicharron de Pescado,20,1
+D6,Chaufa de Pescado + Chicharron de Pota,20,1
+T1,Ceviche + Arroz con Mariscos + Chicharron de Pota,30,1
+T2,Ceviche + Arroz con Mariscos + Chicharron de Pescado,30,1
+T3,Ceviche + Chaufa de Pescado + Chicharron de Pota,30,1
+T4,Ceviche + Chaufa de Pescado + Chicharron de Pescado,30,1
+CR1,Lomo Saltado de Pollo,20,1
+CR2,Lomo Saltado de Carne,20,1
+CR3,Tallarines Saltados,20,1
+CR4,Trucha Frita,25,1
+E1,Leche de tigre Especial,12,1
+E2,Leche de tigre Clasico,10,1
+E3,Chilcano Especial,12,1
+E4,Chilcano Clasico,10,1
+B1,Chicha Morada 1L,8,1
+B2,Maracuya 1L,8,1
+B3,Limonada Frozen 1L,10,1
+J1,Papaya,6,1
+J2,Piña,7,1
+J3,Platano con Leche,8,1
+J4,Mango con Leche,8,1
+J5,Surtido,7,1
+J6,Fresa con Leche,9,1
+J7,Especial,10,1
+P1,Pan con Queso,2,1
+P2,Pan con Palta,2,1
+P3,Pan con Huevo,2,1
+P4,Pan con Pollo,2,1
+P5,Pan con Hotdog,2,1
+P6,Pan con Aceituna,2,1
+P7,Choripan,5,1
+G1,Inka Kola 600 ml,4,0
+G2,Coca Cola 600 ml,4,0
+G3,Cielo,2,0
+G4,Fanta 3L,10,0
+G5,Fanta 500 ml,3,0
+G6,Sporade,3,0
+G7,Agua Saborizada,2.5,0
+G8,Inka Kola Personal,2.5,0
+G9,Sprite,3,0
+G10,Concordia,2,0
+G11,Coca Cola 1.5L,10,0
+O1,Aeropuerto Octomar,35,1
