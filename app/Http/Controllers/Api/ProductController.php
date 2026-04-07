@@ -9,9 +9,8 @@ class ProductController extends Controller
 {
     public function index()
     {
-        // Devuelve productos para el POS
-        return Product::select('id', 'name', 'price', 'send_to_kitchen')
-    ->orderBy('name')
-    ->get();
+        return Product::select('id', 'code', 'name', 'price', 'send_to_kitchen')
+            ->orderBy('name')
+            ->get();
     }
 }
